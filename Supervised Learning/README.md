@@ -1,4 +1,3 @@
-# learn-machine-learning
 
 ## Supervised Learning
 ## Project: Finding Donors for CharityML
