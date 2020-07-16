@@ -1,6 +1,6 @@
 # Machine Learning Study Notes
 
-This repository is ongoing updating.
+This repository is ongoing updating. Sources come from Udacity.
 
 ## Supervised learning 
 
@@ -15,3 +15,5 @@ The algorithms include:
 - Random forest
 - Naive Bayes
 - K-nearest neighbor
+
+## Unsupervised learning 
