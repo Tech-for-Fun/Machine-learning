@@ -3,7 +3,7 @@
 ## Project: Finding Donors for CharityML
 
 ### Introduction
-Use supervised learning techniques to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause, data collected from the U.S. census. 
+CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. This project will evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent to ask for donations. Use supervised learning techniques to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause, data collected from the U.S. census. 
 
 ### Data
 The modified census dataset consists of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", by Ron Kohavi. You may find this paper online, with the original dataset hosted on UCI.
